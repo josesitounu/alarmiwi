@@ -113,7 +113,7 @@ async function reloj() {
 					document.body.appendChild(div)
 					
 					await sleep(20000);
-					h = 25
+			
 				  }
 			}
 
