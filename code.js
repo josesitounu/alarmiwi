@@ -99,7 +99,7 @@ async function reloj() {
                  if(s < 10){ ceritosS = "0"}else{ceritosS = ""}
 
 
-				textoRelojito = "<br><h6> HORA	MINUTO	SEGUNDO</h6> <h1>"+ceritosH+h+"    :    "+ceritosM+m+"    :    "+ceritosS+s+"</h1>" 
+				textoRelojito = "<br><h6> <span>HORA</span> <span>MINUTO</span>	<span>SEGUNDO</span></h6> <h1>"+ceritosH+h+"    :    "+ceritosM+m+"    :    "+ceritosS+s+"</h1>" 
 				 
 				relojito.innerHTML = textoRelojito
 
