@@ -1,0 +1,48 @@
+*{
+	font-family: sans-serif;
+	
+}
+
+.tit{
+	margin: 0px;
+	padding: 10px;
+	text-align: center;
+}
+
+#horas{
+	margin: 0px 10px;
+}
+
+#minutos{
+	margin: 0px 10px;
+}
+
+#segundos{
+	margin: 0px 10px;
+}
+
+#botonson{
+	margin: 20px;
+}
+
+select{
+	padding: 0px 10px;
+	font-size: 20px;
+}
+
+#radios{
+	margin: 5px 10px;
+}
+
+span{
+	margin: 0px 10px;
+}
+
+form{
+	margin: 10px 0px;
+}
+
+#relojon{
+	margin: 5px;
+	font-size: 25px;
+}
