@@ -62,7 +62,7 @@ async function reloj() {
 	seg = parseInt(document.getElementById("segundos").value)
 
 	let tiempoMimir = parseInt(document.getElementsByName("vel:checked").value)
-	let mimir
+	let mimir = 1000
 	
 	if(tiempoMimir == 1){
 		mimir = 1000
